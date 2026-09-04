@@ -6,8 +6,14 @@ The planets in the sky can have various geometric shapes, such as squares and ci
 The buildings should shine against a dark black sunset sky. Include smooth metallic textures on the buildings, and make the roads appear clean, man-made, and smooth with no potholes.
 
 
-**Vocabulary Breakdown** Lines: Lines are marks that can show direction, movement, or the shape of something.
+**Vocabulary Breakdown**
+
+Lines: Lines are marks that can show direction, movement, or the shape of something.
+
 Shape: A shape is a flat area that can be geometric created by lines. 
+
 Texture: Texture is how something looks or feels, such as smooth, rough, soft, or squishy. 
+
 Volume: Volume is the way an object appears to have three-dimensional negative or positive space, including height or width.
+
 Contrast: The difference between elements, such as light and dark colors, that makes things stand out or give it a feelings like lonely or happy. 
