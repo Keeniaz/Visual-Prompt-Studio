@@ -6,10 +6,10 @@ Vocabulary Breakdown
 
 Lines: Lines are marks that can show direction, movement, or the shape of something.
 
-Shape: A shape is a flat area that can be geometric or made by lines.
+Shape: A shape is a flat area that can be geometric or organic and is made by lines.
 
-Texture: Texture is something that looks or feels smooth, rough, soft, squishy, or hard.
+Texture: Texture is how something looks or feels smooth, rough, soft, squishy, or hard.
 
 Volume: Volume is the way an object appears to be three-dimensional, including height or width and depth.
 
-Contrast: The difference between elements such as light and dark colors that makes things stand out or give it a feelings like lonely or happy.
+Contrast: The difference between elements such as light and dark colors that makes things stand out.
