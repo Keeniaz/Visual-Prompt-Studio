@@ -1,4 +1,4 @@
-The Immersive Album Cover Challenge 
+Visual Prompt Studio Phase 1.2 : The Immersive Album Cover Challenge
 
 Prompt 
 
