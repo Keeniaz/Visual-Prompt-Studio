@@ -1,4 +1,4 @@
-The Sci-Fi Film Poster Challenge: Visual Prompt Studio Phase 1.1
+Visual Prompt Studio Phase 1.1 :The Sci-Fi Film Poster Challenge
 
 Prompt
 
