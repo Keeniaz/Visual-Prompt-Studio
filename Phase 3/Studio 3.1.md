@@ -12,6 +12,8 @@ Artwork used as inspiration: Funerary Mask of Tutankhamun
 Create an Ancient Egyptian funerary mask sculpture inspired by the Funerary Mask of Tutankhamun. Use gold, blue, and red colors, symmetrical balance, smooth textures, and detailed patterns. Show an idealized human face with a decorated headdress and strong emphasis on the eyes. Use shiny gold surfaces and carefully arranged details to make the mask look sacred and powerful. The artwork should represent Ancient Egyptian beliefs about the afterlife and the importance of protecting and honoring the deceased. The mask was created to honor and protect the deceased and reflect Ancient Egyptian religious beliefs about the afterlife and the importance of preparing for life after death.
 
 
+
+
 Prompt 2 — Greek and Roman Ideals of Civic Duty and Order
 
 Historical theme: Greek and Roman ideals of civic duty and order
